@@ -1,0 +1,3 @@
+Versionhallinta_ryhm_4/obj/*
+Versionhallinta_ryhm_4/bin/*
+Versionhallinta_ryhm_4/.vs/
