@@ -21,10 +21,11 @@ for (int i = 0; i < tiiminjasenet.Count; i++) //nimien tulostaminen listasta
 
 if (tiiminjasenet.Count == 4)
 {
-    Console.WriteLine("Kaikki jäsenet ovat paikalla.");
+    Console.WriteLine("Kaikki jäsenet ovat löytäneet versionhallintaan.");
 }
 else
 {
     Console.WriteLine("Tiimin jäseniä puuttuu vielä.");
 }
 
+Console.WriteLine("Testing...");
