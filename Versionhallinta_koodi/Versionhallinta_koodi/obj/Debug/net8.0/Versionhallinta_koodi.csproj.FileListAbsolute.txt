@@ -13,3 +13,18 @@ C:\Users\jubek\Desktop\HAMK_koulutöitä\1. Vuosi\Moduuli 3. Ohjelmointi\Ohjelmi
 C:\Users\jubek\Desktop\HAMK_koulutöitä\1. Vuosi\Moduuli 3. Ohjelmointi\Ohjelmistonkehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.pdb
 C:\Users\jubek\Desktop\HAMK_koulutöitä\1. Vuosi\Moduuli 3. Ohjelmointi\Ohjelmistonkehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.genruntimeconfig.cache
 C:\Users\jubek\Desktop\HAMK_koulutöitä\1. Vuosi\Moduuli 3. Ohjelmointi\Ohjelmistonkehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\ref\Versionhallinta_koodi.dll
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\bin\Debug\net8.0\Versionhallinta_koodi.exe
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\bin\Debug\net8.0\Versionhallinta_koodi.deps.json
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\bin\Debug\net8.0\Versionhallinta_koodi.runtimeconfig.json
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\bin\Debug\net8.0\Versionhallinta_koodi.dll
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\bin\Debug\net8.0\Versionhallinta_koodi.pdb
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.AssemblyInfoInputs.cache
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.AssemblyInfo.cs
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.csproj.CoreCompileInputs.cache
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.sourcelink.json
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.dll
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\refint\Versionhallinta_koodi.dll
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.pdb
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\Versionhallinta_koodi.genruntimeconfig.cache
+C:\Users\vahat\OneDrive\Tiedostot\HAMK\Ohjelmistokehitys\Versionhallinta_ryhm_4\Versionhallinta_koodi\Versionhallinta_koodi\obj\Debug\net8.0\ref\Versionhallinta_koodi.dll
