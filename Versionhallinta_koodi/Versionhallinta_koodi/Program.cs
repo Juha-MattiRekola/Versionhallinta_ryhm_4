@@ -19,3 +19,12 @@ for (int i = 0; i < tiiminjasenet.Count; i++) //nimien tulostaminen listasta
     Console.WriteLine(tiiminjasenet[i]);
 }
 
+if (tiiminjasenet.Count == 4)
+{
+    Console.WriteLine("Kaikki jäsenet ovat paikalla.");
+}
+else
+{
+    Console.WriteLine("Tiimin jäseniä puuttuu vielä.");
+}
+
