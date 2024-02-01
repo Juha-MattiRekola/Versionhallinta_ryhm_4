@@ -7,10 +7,13 @@ string henkilo1 = "Juha-Matti"; //tervehdykset
 Console.WriteLine($"Hei {henkilo1}!");
 string henkilo2 = "Niina";
 Console.WriteLine($"Hei {henkilo2}!");
+string henkilo3 = "Janne";
+Console.WriteLine($"Hei {henkilo3}!");
 
 List<string> tiiminjasenet = []; //lista ryhmän jäsenistä
 tiiminjasenet.Add("Juha-Matti"); //lisätään ryhmän jäsenet listaan
 tiiminjasenet.Add("Niina");
+tiiminjasenet.Add("Janne");
 
 Console.WriteLine("Tiimissä on yhteensä " + tiiminjasenet.Count + " jäsentä:"); //tiimin jäsenten määrä
 
