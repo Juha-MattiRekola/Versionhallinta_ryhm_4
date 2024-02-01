@@ -32,3 +32,4 @@ else
 }
 
 Console.WriteLine("Testing...");
+Console.WriteLine("Another testing part");
