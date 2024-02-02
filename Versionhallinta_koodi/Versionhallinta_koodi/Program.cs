@@ -18,6 +18,7 @@ tiiminjasenet.Add("Niina");
 tiiminjasenet.Add("Janne");
 
 
+
 Console.WriteLine("Tiimissä on yhteensä " + tiiminjasenet.Count + " jäsentä:"); //tiimin jäsenten määrä
 
 for (int i = 0; i < tiiminjasenet.Count; i++) //nimien tulostaminen listasta
@@ -40,4 +41,16 @@ Console.WriteLine("Another testing part");
 
 Console.WriteLine("Tästä lähtee haarauma");
 Console.WriteLine("Lisämuutos haaraumaan, jotta se alkaisi näkyä oikeana haaraumana");
+Console.WriteLine("Montako jäseniä tässä on?");
+int numero;
+numero = Convert.ToInt32(Console.ReadLine());
+if (numero != 4)
+{
+    Console.WriteLine("Väärin, meitä on 4!");
+    return;
+}
+else
+{
+    Console.WriteLine("Oikein!");
+} //tehty testi
 
