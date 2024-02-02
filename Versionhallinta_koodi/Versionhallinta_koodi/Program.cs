@@ -35,3 +35,4 @@ Console.WriteLine("Testing...");
 Console.WriteLine("Another testing part");
 
 Console.WriteLine("Tästä lähtee haarauma");
+Console.WriteLine("Lisämuutos haaraumaan, jotta se alkaisi näkyä oikeana haaraumana");
