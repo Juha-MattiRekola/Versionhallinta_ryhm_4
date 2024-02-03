@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jdika\\OneDrive\\Документы\\ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj": {}
+    "C:\\Users\\vahat\\OneDrive\\Tiedostot\\HAMK\\Ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jdika\\OneDrive\\Документы\\ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj": {
+    "C:\\Users\\vahat\\OneDrive\\Tiedostot\\HAMK\\Ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jdika\\OneDrive\\Документы\\ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj",
+        "projectUniqueName": "C:\\Users\\vahat\\OneDrive\\Tiedostot\\HAMK\\Ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj",
         "projectName": "Versionhallinta_koodi",
-        "projectPath": "C:\\Users\\jdika\\OneDrive\\Документы\\ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj",
-        "packagesPath": "C:\\Users\\jdika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jdika\\OneDrive\\Документы\\ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\obj\\",
+        "projectPath": "C:\\Users\\vahat\\OneDrive\\Tiedostot\\HAMK\\Ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj",
+        "packagesPath": "C:\\Users\\vahat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vahat\\OneDrive\\Tiedostot\\HAMK\\Ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jdika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vahat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
