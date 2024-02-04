@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vahat\\.nuget\\packages\\": {}
+    "C:\\Users\\jubek\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vahat\\OneDrive\\Tiedostot\\HAMK\\Ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj",
+      "projectUniqueName": "C:\\Users\\jubek\\Desktop\\HAMK_koulutöitä\\1. Vuosi\\Moduuli 3. Ohjelmointi\\Ohjelmistonkehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj",
       "projectName": "Versionhallinta_koodi",
-      "projectPath": "C:\\Users\\vahat\\OneDrive\\Tiedostot\\HAMK\\Ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj",
-      "packagesPath": "C:\\Users\\vahat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vahat\\OneDrive\\Tiedostot\\HAMK\\Ohjelmistokehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\obj\\",
+      "projectPath": "C:\\Users\\jubek\\Desktop\\HAMK_koulutöitä\\1. Vuosi\\Moduuli 3. Ohjelmointi\\Ohjelmistonkehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\Versionhallinta_koodi.csproj",
+      "packagesPath": "C:\\Users\\jubek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jubek\\Desktop\\HAMK_koulutöitä\\1. Vuosi\\Moduuli 3. Ohjelmointi\\Ohjelmistonkehitys\\Versionhallinta_ryhm_4\\Versionhallinta_koodi\\Versionhallinta_koodi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\vahat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jubek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
